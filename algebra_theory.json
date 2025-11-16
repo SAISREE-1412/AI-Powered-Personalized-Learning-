@@ -1,0 +1,63 @@
+[
+  {
+    "Chapter": "Algebra",
+    "Topic": "Linear Equations",
+    "Theory": "A linear equation is an algebraic expression where the highest power of the variable is 1. It represents a straight line when graphed.",
+    "Example_Question": "Solve 2x + 3 = 7",
+    "Step_by_Step": "Step 1: Isolate variable term → 2x = 4. Step 2: Solve for x → x = 2. Step 3: Check by substituting → 2*2 + 3 = 7",
+    "Tips": "Always perform the same operation on both sides of the equation to maintain equality.",
+    "YouTube_Link": "https://www.youtube.com/watch?v=FdS7KIVfks0",
+    "Book_Reference": "NCERT Class 6 Mathematics, Chapter 6"
+  },
+  {
+    "Chapter": "Algebra",
+    "Topic": "Simple Algebraic Expressions",
+    "Theory": "An algebraic expression is a combination of variables, constants, and operators. It does not have an equality sign.",
+    "Example_Question": "Simplify 2a + 3a - 4",
+    "Step_by_Step": "Step 1: Identify like terms → 2a and 3a. Step 2: Add like terms → 5a - 4",
+    "Tips": "Group similar terms together to simplify expressions.",
+    "YouTube_Link": "https://www.youtube.com/watch?v=wWCyY8pK7x4",
+    "Book_Reference": "NCERT Class 6 Mathematics, Chapter 6"
+  },
+  {
+    "Chapter": "Algebra",
+    "Topic": "Factorization",
+    "Theory": "Factorization involves breaking down an expression into a product of simpler expressions.",
+    "Example_Question": "Factorize x^2 + 5x + 6",
+    "Step_by_Step": "Step 1: Find two numbers that multiply to 6 and add to 5 → 2 and 3. Step 2: Factor → (x + 2)(x + 3)",
+    "Tips": "Look for common factors first, then apply formulas like a^2-b^2 or a^3+b^3.",
+    "YouTube_Link": "https://www.youtube.com/watch?v=HD3z0c9obrA",
+    "Book_Reference": "NCERT Class 6 Mathematics, Chapter 6"
+  },
+  {
+    "Chapter": "Algebra",
+    "Topic": "Simple Equations",
+    "Theory": "A simple equation has the highest power of variable as 1 and can be solved in a few steps.",
+    "Example_Question": "Solve x + 7 = 12",
+    "Step_by_Step": "Step 1: Isolate variable → x = 12 - 7 → x = 5. Step 2: Check solution → 5 + 7 = 12",
+    "Tips": "Always verify your solution by substituting back.",
+    "YouTube_Link": "https://www.youtube.com/watch?v=3ps5MCADQo4",
+    "Book_Reference": "NCERT Class 6 Mathematics, Chapter 6"
+  },
+  {
+    "Chapter": "Algebra",
+    "Topic": "Understanding Variables and Constants",
+    "Theory": "Variables represent unknown values and constants are fixed values.",
+    "Example_Question": "Identify variable and constant in 5x + 3",
+    "Step_by_Step": "Step 1: Variable → x. Step 2: Constant → 3",
+    "Tips": "Variables are usually letters like x, y, z.",
+    "YouTube_Link": "https://www.youtube.com/shorts/iYFxxI7poto",
+    "Book_Reference": "NCERT Class 6 Mathematics, Chapter 6"
+  },
+   {
+    "Chapter": "Algebra",
+    "Topic": "Rational Expressions",
+    "Theory": "Rational expressions are fractions with polynomials in numerator and denominator.",
+    "Example_Question": "Simplify (x^2 - 9)/(x - 3)",
+    "Step_by_Step": "Step 1: Factor numerator → (x - 3)(x + 3). Step 2: Cancel common factor → x + 3",
+    "Tips": "Check that denominator ≠ 0",
+    "YouTube_Link": "https://www.youtube.com/watch?v=0Gq3uw2p6fA",
+    "Book_Reference": "NCERT Class 6 Mathematics, Chapter 6"
+  }
+]
+
